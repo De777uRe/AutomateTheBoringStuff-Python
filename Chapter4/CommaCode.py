@@ -8,6 +8,7 @@ def list_to_str(some_list):
 
 
 my_list = [1, 2, 3, 4, 5]
-print(list_to_str(my_list))
+print(list_to_str(my_list) + '\n')
+
 my_test_list = ['apples', 'bananas', 'tofu', 'cats']
 print(list_to_str(my_test_list))
